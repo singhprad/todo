@@ -10,7 +10,7 @@
     background: linear-gradient(135deg, #153677, #4e085f);
     padding: 10px;
 }
-.todo-app {
+.Task-tracker {
     width: 100%;
     max-width: 540px;
     background: #fff ;
@@ -18,7 +18,7 @@
     padding: 40px 30px 70px;
     border-radius: 10px;
 }
-.todo-app h2 {
+.Task-tracker h2 {
     color: #002765;
     display: flex;
     align-items: center;
